@@ -169,3 +169,8 @@ $$
 ### Note
 It's important to note that this torque represents a vertical component or a simplified projection, not the actual torque about the steering axis. So, to determine the actual torque about the steering axis, we need to account for the steering axis tilt, which is 20 degrees from vertical. Therefore, adjustments are necessary to obtain the accurate torque value.
 
+---
+
+[Watch the Youtube video here](https://youtu.be/mxMtNsoyyr8)
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/mxMtNsoyyr8/0.jpg)](https://www.youtube.com/watch?v=mxMtNsoyyr8)
