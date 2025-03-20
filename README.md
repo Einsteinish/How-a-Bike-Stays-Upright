@@ -171,6 +171,6 @@ It's important to note that this torque represents a vertical component or a sim
 
 ---
 
-[Watch the Youtube video here](https://youtu.be/mxMtNsoyyr8)
+[Watch the Youtube video here](https://youtu.be/o-IjWDtT6IU)
 
-[![YouTube Video Thumbnail](https://img.youtube.com/vi/mxMtNsoyyr8/0.jpg)](https://www.youtube.com/watch?v=mxMtNsoyyr8)
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/o-IjWDtT6IU/0.jpg)](https://www.youtube.com/watch?v=o-IjWDtT6IU)
