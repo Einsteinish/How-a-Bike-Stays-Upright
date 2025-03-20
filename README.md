@@ -146,7 +146,9 @@ $$
 \tau = (0, 0, 39.2) N \cdot m
 $$
 
+---
 ![Bike-Geometry-and-Force](images/Bike-Geometry-and-Force.png)
+---
 
 ### Implications
 - **Stability Mechanism**:
