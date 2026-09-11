@@ -1,5 +1,11 @@
 # How-a-Bike-Stays-Upright
 
+[Watch the Youtube video here](https://youtu.be/o-IjWDtT6IU)
+
+[![YouTube Video Thumbnail](https://img.youtube.com/vi/o-IjWDtT6IU/0.jpg)](https://www.youtube.com/watch?v=o-IjWDtT6IU)
+
+---
+
 ## Calculating Torque Due to the Trail of a Leaning Bike (Approximation)
 
 ### Problem Statement
